@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "totalResults": 200,
+    "articles": [
+    {
+    "source": {
+    "id": "time",
+    "name": "Time"
+    },
+    "author": "Josh Funk / AP",
+    "title": "Charlie Munger, Warren Buffet’s Longtime Sidekick at Berkshire Hathaway, Dies at 99",
+    "description": "Munger served as Buffett’s sounding board on investments and business decisions and helped lead Berkshire for more than five decades and served as its longtime vice chairman.",
+    "url": "https://time.com/6340572/charlie-munger-death-obituary/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/charlie-munger.jpg?quality=85",
+    "publishedAt": "2023-11-29T01:25:24Z",
+    "content": "OMAHA, Neb. Charlie Munger, who helped Warren Buffett build Berkshire Hathaway into an investment powerhouse, has died at a California hospital. He was 99.\r\nBerkshire Hathaway said in a statement tha… [+7502 chars]"
+    },
+ 
+ {
+    "source": {
+    "id": null,
+    "name": "ComingSoon.net"
+    },
+    "author": "Namrataghosh",
+    "title": "Bad Sisters Season 1 Streaming: Watch & Stream Online via Apple TV Plus",
+    "description": "Bad Sisters Season 1 is a 2022 black comedy television series based on Ireland, that follows the five Garvey sisters who become the center of a life insurance investigation, after John, one of the sister’s husbands, unexpectedly passes away. Here’s how you ca…",
+    "url": "https://www.comingsoon.net/guides/news/1417795-bad-sisters-season-1-streaming-watch-stream-online-via-apple-tv-plus",
+    "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Bad-Sisters-Season-1.jpg?resize=1200,630",
+    "publishedAt": "2023-11-29T04:56:40Z",
+    "content": "Bad Sisters Season 1 is a 2022 black comedy television series based on Ireland, that follows the five Garvey sisters who become the center of a life insurance investigation, after John, one of the si… [+2276 chars]"
+    },
+ {
+    "source": {
+    "id": null,
+    "name": "ComingSoon.net"
+    },
+    "author": "Apoorv Rastogi",
+    "title": "Mythic Quest Season 1 Streaming: Watch & Stream Online via Apple TV Plus",
+    "description": "Mythic Quest Season 1 is an American comedy series created by Charlie Day, Megan Ganz, and Rob McElhenney. The show revolves around the team behind the hugely popular game Mythic Quest. Ian Grimm is the leader of the team and also occupies the role of the cre…",
+    "url": "https://www.comingsoon.net/guides/news/1417192-mythic-quest-season-1-streaming-watch-stream-online-via-apple-tv-plus",
+    "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Mythic-Quest-Season-1.jpeg?resize=1200,630",
+    "publishedAt": "2023-11-29T05:05:00Z",
+    "content": "Mythic Quest Season 1 is an American comedy series created by Charlie Day, Megan Ganz, and Rob McElhenney. The show revolves around the team behind the hugely popular game Mythic Quest. Ian Grimm is … [+3045 chars]"
+    },
+ 
+ {
+    "source": {
+    "id": null,
+    "name": "Apfelpage.de"
+    },
+    "author": "Roman van Genabith",
+    "title": "Millionen Vision Pro verkaufen und zwar günstig | Apple Music-Charts 2023 | Google Driver verliert Dateien – Daybreak Apple",
+    "description": "Guten Morgen zusammen! Wird Apple schon bald Millionen Vision Pro-Brillen verkaufen? Da müsste man mit dem Produkt zunächst einmal auf den Markt und dann wohl auch bald tüchtig mit den Preisen runter. Aber das […]",
+    "url": "https://www.apfelpage.de/news/millionen-vision-pro-verkaufen-und-zwar-guenstig-apple-music-charts-2023-google-driver-verliert-dateien-daybreak-apple/",
+    "urlToImage": "https://www.apfelpage.de/wp-content/uploads/2021/01/DayBreak.png",
+    "publishedAt": "2023-11-29T05:00:57Z",
+    "content": "Guten Morgen zusammen! Wird Apple schon bald Millionen Vision Pro-Brillen verkaufen? Da müsste man mit dem Produkt zunächst einmal auf den Markt und dann wohl auch bald tüchtig mit den Preisen runter… [+1634 chars]"
+    }
+    ]
+    }
